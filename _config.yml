@@ -4,6 +4,7 @@ description: "随便记下来。"
 baseurl: "/notes" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: ""
 author: "Wei Jingyu"
+cover_url: "/zhuobielin_hailunkaile.jpg"
 
 # Build settings
 kramdown:
